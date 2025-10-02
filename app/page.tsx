@@ -4,9 +4,11 @@ export default function Page() {
   return (
     <section>
    <main>
+    <h1>kelompok 50</h1>
+    <h1>putri</h1>
        <h1>Halo — Kita Putri Dyah Prilianti dan Femi Putra Mahardika </h1>
         <p>Ini website sederhana yang saya edit sendiri.</p>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNFJBU32t2i2rHQgtS7ZJtUlO-iZGlvXCEyg&s" alt="Hero" />
+    <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KT-STZ0AFdc_B43BEZDa6EVYKQhz46yJzrdysMScO52lmPD3HwMHHHcKM__2q5kR0KwtL9a-oUrAwUntKQXNpp3IzXa-FhWz3K0LQQisfEvL1yNuZnaNfsHOKIMrFzenmKxvd3c5inHePOVcyYkA6WXXjrXLPES2cgjd_Bl2RLY-69Zkg=s1024" alt="Hero" />
   </main>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         My Portfolio
